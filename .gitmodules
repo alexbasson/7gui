@@ -1,0 +1,18 @@
+[submodule "spheres"]
+	path = spheres
+	url = git@github.com:alexbasson/7gui-spheres.git
+[submodule "api"]
+	path = api
+	url = git@github.com:alexbasson/7gui-api.git
+[submodule "iOS"]
+	path = iOS
+	url = git@github.com:alexbasson/7gui-iOS.git
+[submodule "nextjs"]
+	path = nextjs
+	url = git@github.com:alexbasson/7gui-nextjs.git
+[submodule "promises"]
+	path = promises
+	url = git@github.com:alexbasson/7gui-promises.git
+[submodule "vuejs"]
+	path = vuejs
+	url = git@github.com:alexbasson/7gui-vuejs.git
